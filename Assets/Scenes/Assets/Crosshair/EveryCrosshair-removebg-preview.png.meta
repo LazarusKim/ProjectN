@@ -1,0 +1,486 @@
+fileFormatVersion: 2
+guid: 03f83fcf3504f4b3a8b60ecc42aca380
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EveryCrosshair-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 398
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b654ac2a73ae471ab5c91b6eb5cd966
+      internalID: 1211535550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryCrosshair-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 397
+        width: 89
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd3077bd45c4478992557296e96abfb
+      internalID: -643559296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryCrosshair-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 388
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbeb3e4637fb4f7694fbfd53db88104
+      internalID: 965274895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryCrosshair-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 398
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288215e10f1f249d895e7623c242a5de
+      internalID: -275704674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryCrosshair-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 279
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592222d482fa24941bdd175e54da2ce0
+      internalID: 2002571905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryCrosshair-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 276
+        width: 105
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0946a037d86c49969f946d927bbe8c2
+      internalID: 444974071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryCrosshair-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 272
+        width: 107
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a95afe1dea14669a0eb7dbf97efe02
+      internalID: -1529142708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryCrosshair-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 284
+        width: 88
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0698c65bab7f42a2aadfc5945a03311
+      internalID: 1046071627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryCrosshair-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 170
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fc6c8543319497c842a39534561fbe
+      internalID: -65653128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryCrosshair-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 162
+        width: 100
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7323b0ec068e44928fa2a864de96583
+      internalID: -1880378141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryCrosshair-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 171
+        width: 88
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8011cea166d0463681c1d24dfbf3ab6
+      internalID: 127406704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryCrosshair-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 170
+        width: 89
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217562ea98de74bc5a82ca88d8d25764
+      internalID: 321255735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryCrosshair-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 64
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43afe48e38aab4cd5a9ea99bbf02b074
+      internalID: -1783823939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryCrosshair-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 60
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c45b418d2454605bca8669a74aa3ca
+      internalID: 2095849892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryCrosshair-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 53
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95880a00b8b3415bbcc8ff0256bf7bf
+      internalID: -1322775533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EveryCrosshair-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 56
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76dc5fbf75d3947838a889b91d2397bc
+      internalID: 1326414370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      EveryCrosshair-removebg-preview_0: 1211535550
+      EveryCrosshair-removebg-preview_1: -643559296
+      EveryCrosshair-removebg-preview_10: -956981502
+      EveryCrosshair-removebg-preview_11: 1154586084
+      EveryCrosshair-removebg-preview_12: 127406704
+      EveryCrosshair-removebg-preview_13: 321255735
+      EveryCrosshair-removebg-preview_14: -1783823939
+      EveryCrosshair-removebg-preview_15: 557585983
+      EveryCrosshair-removebg-preview_16: 2095849892
+      EveryCrosshair-removebg-preview_17: -49390036
+      EveryCrosshair-removebg-preview_18: -1322775533
+      EveryCrosshair-removebg-preview_19: 1326414370
+      EveryCrosshair-removebg-preview_2: 965274895
+      EveryCrosshair-removebg-preview_20: 1923144759
+      EveryCrosshair-removebg-preview_21: -167579120
+      EveryCrosshair-removebg-preview_22: 746946874
+      EveryCrosshair-removebg-preview_23: 1798112403
+      EveryCrosshair-removebg-preview_24: -1349806053
+      EveryCrosshair-removebg-preview_25: -1209332156
+      EveryCrosshair-removebg-preview_26: 1879669378
+      EveryCrosshair-removebg-preview_3: -275704674
+      EveryCrosshair-removebg-preview_4: 2002571905
+      EveryCrosshair-removebg-preview_5: 444974071
+      EveryCrosshair-removebg-preview_6: -1529142708
+      EveryCrosshair-removebg-preview_7: 1046071627
+      EveryCrosshair-removebg-preview_8: -65653128
+      EveryCrosshair-removebg-preview_9: -1880378141
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
